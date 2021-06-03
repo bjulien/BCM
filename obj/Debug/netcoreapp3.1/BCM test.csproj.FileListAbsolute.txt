@@ -1,0 +1,15 @@
+C:\Users\jubesnard\source\repos\BCM test\obj\Debug\netcoreapp3.1\BCM test.csprojAssemblyReference.cache
+C:\Users\jubesnard\source\repos\BCM test\obj\Debug\netcoreapp3.1\BCM test.AssemblyInfoInputs.cache
+C:\Users\jubesnard\source\repos\BCM test\obj\Debug\netcoreapp3.1\BCM test.AssemblyInfo.cs
+C:\Users\jubesnard\source\repos\BCM test\obj\Debug\netcoreapp3.1\BCM test.csproj.CoreCompileInputs.cache
+C:\Users\jubesnard\source\repos\BCM test\bin\Debug\netcoreapp3.1\BCM test.exe
+C:\Users\jubesnard\source\repos\BCM test\bin\Debug\netcoreapp3.1\BCM test.deps.json
+C:\Users\jubesnard\source\repos\BCM test\bin\Debug\netcoreapp3.1\BCM test.runtimeconfig.json
+C:\Users\jubesnard\source\repos\BCM test\bin\Debug\netcoreapp3.1\BCM test.runtimeconfig.dev.json
+C:\Users\jubesnard\source\repos\BCM test\bin\Debug\netcoreapp3.1\BCM test.dll
+C:\Users\jubesnard\source\repos\BCM test\bin\Debug\netcoreapp3.1\BCM test.pdb
+C:\Users\jubesnard\source\repos\BCM test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jubesnard\source\repos\BCM test\obj\Debug\netcoreapp3.1\BCM test.csproj.CopyComplete
+C:\Users\jubesnard\source\repos\BCM test\obj\Debug\netcoreapp3.1\BCM test.dll
+C:\Users\jubesnard\source\repos\BCM test\obj\Debug\netcoreapp3.1\BCM test.pdb
+C:\Users\jubesnard\source\repos\BCM test\obj\Debug\netcoreapp3.1\BCM test.genruntimeconfig.cache

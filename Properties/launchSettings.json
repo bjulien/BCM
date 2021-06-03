@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BCM test": {
+      "commandName": "Project",
+      "commandLineArgs": "\"01-01-2020\" \"05-01-2020\" \"json\""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ecvrS7vp429+1nt83xW2lDpOpL4WY0x9AhcpxmXFuxlsDL1+vbCKZrcRXprCq/R6I864CxMI1Q086IYpK62sGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jubesnard\\source\\repos\\BCM test\\BCM test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jubesnard\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\jubesnard\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
