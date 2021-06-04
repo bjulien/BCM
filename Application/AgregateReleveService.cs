@@ -13,9 +13,6 @@ namespace BCM_test.Application
         private readonly HawesReleveCentrale _hawes = new HawesReleveCentrale();
         private readonly HounslowReleveCentrale _hounslow = new HounslowReleveCentrale();
 
-        /// <param name="barnsley">Date début du relevé</param>
-        /// <param name="hawes">Date fin du relevé</param>
-        /// <param name="hounslow">format de sortie du relevé</param>
         public AgregateReleveService()
         {
         }
